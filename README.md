@@ -1,2 +1,2 @@
 # Antisocial
-Social networking 
+Social networking website using Laravel
