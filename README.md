@@ -1,6 +1,5 @@
 # Antisocial
-Not currently hostedd
-Social networking website using Apache , Laravel, MySQL and Tailwind CSS 
+Social networking website using Laravel, MySQL and Tailwind CSS 
 
 Setup steps: 
 
